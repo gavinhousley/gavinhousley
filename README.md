@@ -4,7 +4,7 @@ I'm currently working my way through a **JavaScript Full-stack bootcamp**, build
 
 ## What I'm About
 
-I'm drawn to projects that blend technology with creativity. My interests span **art, design, fashion, music, and books** — basically anything that makes me curious, from Einstein's theories to the evolution of the Holy Grail myth. I love the idea of building things that sit at the intersection of these worlds.
+I'm drawn to projects that blend technology with creativity. My interests span **art, design, fashion, music, and books** — basically anything that makes me curious, from Einstein's theories to the evolution of the Holy Grail myth. I love the idea of building things at the intersection of different worlds..
 
 ## Tech Stack
 
@@ -32,7 +32,7 @@ Other: - Paired programming, technical communication, SDL, Agile and Scrum Metho
 
 ## What's Next
 
-I'm looking forward to creating projects that pull from my diverse interests and collaborating with others who are equally curious about the world. Whether it's a music visualization tool, a digital art experiment, or something I haven't even thought of yet — I'm here for it.
+I'm looking forward to creating projects that pull from my diverse interests and collaborating with others who are equally curious about the world. Whether it's a music visualization tool, a digital art experiment, or something I haven't even thought of yet.
 
 ## Let's Connect
 
