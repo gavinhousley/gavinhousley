@@ -23,12 +23,6 @@ Back-end: - SQL, PSQL, Seeding, Migration
 Hosting: - Cloudflare, Netlify
 Other: - Paired programming, technical communication, SDL, Agile and Scrum Methodologies, Adobe: Photoshop, Illustrator, Logic X, Shopify
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinhousley&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinhousley&layout=compact&theme=radical)
-
 ## Currently
 
 📚 **Reading:** *The Grail Legend* by Emma Jung and Marie-Louise von Franz  
