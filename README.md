@@ -36,8 +36,8 @@ I'm looking forward to creating projects that pull from my diverse interests and
 
 ## Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/gavin-housley-304878339)
-- 🎨 [Portfolio](www.gavinhousley.com) *(coming soon!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gavin-housley-304878339)
+- 🎨 [Portfolio](https://www.gavinhousley.com) *(coming soon!)*
 - 📫 Reach me at: gavinhousley@gmail.com
 
 ---
