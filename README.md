@@ -1,10 +1,10 @@
 # Hi there, I'm Gavin! 👋
 
-I'm currently working my way through a **JavaScript Full-stack bootcamp**, building up my coding muscles one project at a time. I've also dipped my toes into **Python**, and I'm excited to see where these skills take me.
+I've just finished working my way through a **JavaScript Full-stack bootcamp**, building up my coding muscles one project at a time. I've also dipped my toes into **Python**, and I'm excited to see where these skills take me.
 
 ## What I'm About
 
-I'm drawn to projects that blend technology with creativity. My interests span **art, design, fashion, music, and books** — basically anything that makes me curious, from Einstein's theories to the evolution of the Holy Grail myth. I love the idea of building things at the intersection of different worlds..
+I'm drawn to projects that blend technology with creativity. My interests span **art, design, fashion, music, and books**,  basically anything that makes me curious, from Einstein's theories to the evolution of the Holy Grail myth. I love the idea of building things at the intersection of different worlds..
 
 ## Tech Stack
 
@@ -17,17 +17,17 @@ I'm drawn to projects that blend technology with creativity. My interests span *
 
 ## What I'm Learning
 
-Languages: - JavaScript, using Node.js and browsers as environment. Python
-Testing: - TDD (Test Driven Development), Jest
-Back-end: - SQL, PSQL, Seeding, Migration
-Hosting: - Cloudflare, Netlify
+Languages:  JavaScript, using Node.js and browsers as environment. Python
+Testing:  TDD (Test Driven Development), Jest
+Back-end:  SQL, PSQL, Seeding, Migration
+Hosting:  Cloudflare, Netlify, Supabase, Render
 Other: - Paired programming, technical communication, SDL, Agile and Scrum Methodologies, Adobe: Photoshop, Illustrator, Logic X, Shopify
 
 ## Currently
 
 📚 **Reading:** *The Grail Legend* by Emma Jung and Marie-Louise von Franz  
 🎵 **Listening to:** Selected Ambient Works II by Aphex Twin 
-💻 **Working on:** Building my portfolio site and bootcamp projects  
+💻 **Working on:** Polishing my portfolio site and bootcamp projects  
 🌱 **Exploring:** React and responsive design patterns
 
 ## What's Next
@@ -36,8 +36,8 @@ I'm looking forward to creating projects that pull from my diverse interests and
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gavin-housley-304878339)
-- 🎨 [Portfolio](https://www.gavinhousley.com) *(coming soon!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/gavinhousley)
+- 🎨 [Portfolio](https://www.gavinhousley.com
 - 📫 Reach me at: gavinhousley@gmail.com
 
 ---
