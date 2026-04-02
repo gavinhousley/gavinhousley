@@ -21,7 +21,7 @@ Languages:  JavaScript, using Node.js and browsers as environment. Python
 Testing:  TDD (Test Driven Development), Jest
 Back-end:  SQL, PSQL, Seeding, Migration
 Hosting:  Cloudflare, Netlify, Supabase, Render
-Other: - Paired programming, technical communication, SDL, Agile and Scrum Methodologies, Adobe: Photoshop, Illustrator, Logic X, Shopify
+Other: Paired programming, technical communication, SDL, Agile and Scrum Methodologies, Adobe: Photoshop, Illustrator, Logic X, Shopify
 
 ## Currently
 
@@ -37,7 +37,7 @@ I'm looking forward to creating projects that pull from my diverse interests and
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gavinhousley)
-- 🎨 [Portfolio](https://www.gavinhousley.com
+- 🎨 [Portfolio](https://www.gavinhousley.com)
 - 📫 Reach me at: gavinhousley@gmail.com
 
 ---
